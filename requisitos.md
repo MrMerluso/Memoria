@@ -51,3 +51,18 @@ Mientras más Quests sean completadas por los jugadores, mejores deberán ser la
 
 ## Misiones
 Las Misiones aparecen en el mapa en momentos aleatorios y todos los jugadores conectados en el servidor son notificados de su aparición. Cualquier jugador puede completar la misión y obtener sus recompensas
+
+Las Misiones consistirán de algún objetivo rodeado de NPCs que serán hostiles hacia los jugadores que intenten acercarce. Mientras mayores sean las recompensas, mayores deben ser la cantidad de NPCs y mayor debe ser su habilidad.
+
+Un ejemplo de objetivo es que haya un grupo de NPCs defendiendo algún convoy que no puede moverse o que estén vigilando alguna estructura.
+
+Es posible que algunas misiones hagan que el jugador vaya a múltiples destinos de manera secuencial (parecido a una Quest), pero no debe alejarse mucho de la zonda de la misión para que el flujo no se vea interrumpido y para que se incentive el PvP.
+
+#### Conexión con los Puestos de Avanzada *\*Idea en desarrollo\**
+
+Estuve pensando en la posibilidad de que las misiones tambien esten divididas por facciones. Por ejemplo que hayan objetivos que estén siendo vigilados por Bandits. Obviamente solo los jugadores Heroes podrían completar estas misiones. La idea de esto es que los NPCs suelten un tipo de llave especial utilizada para abrir algún contenedor en los Puestos de Avanzada de la facción. Específicamente, seguría un flujo como el siguienee:
+
+1. Aparece una Mision: Convoy de Bandits ha quedado varado
+2. Jugadores Hero acuden a la Mision
+3. Jugadores Hero completan la misión y entre las recompensas hay una llave llamada "Llave del Puesto de Avanzada Bandit"
+4. Los jugadores Hero ahora tienen la posibilidad de abrir un contenedor especial dentro de los Puestos de Avanzada Bandit en caso de querer inicar un ataque.
